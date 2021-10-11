@@ -1,22 +1,9 @@
-![cover]()  
+![cover](https://github.com/fedilayoub/fedilayoub/blob/main/Github%20cover.png)  
 ### Hi there 👋  
 My name is **Fedil Ayoub**, I'm a **Junior JavaScript Front end developper** and **UI/UX Designer**  
 I enjoy turning ideas into real world project 
-Code is my language.
+Code is my language.  
+- 🔭 I’m currently working on React Js projects and create UIs with Figma
+- 🌱 I’m currently learning Gatsby SSG
 
 
-
-<!--
-**fedilayoub/fedilayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
