@@ -1,4 +1,10 @@
-### Hi there 👋
+![cover]()  
+### Hi there 👋  
+My name is **Fedil Ayoub**, I'm a **Junior JavaScript Front end developper** and **UI/UX Designer**  
+I enjoy turning ideas into real world project 
+Code is my language.
+
+
 
 <!--
 **fedilayoub/fedilayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
