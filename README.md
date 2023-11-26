@@ -2,10 +2,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fedil Ayoub
 ===================================================================================================================================
 
-JS Front End Developer
+I'm a moroccan 🇲🇦 frontend developer 
 -----------------------------
 
-* 🌍  I'm based in Morocco
 * ✉️  You can contact me at [fedilayoub2016@gmail.com](mailto:fedilayoub2016@gmail.com)
 
 ### Skills
