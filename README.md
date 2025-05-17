@@ -47,36 +47,6 @@ Senior Frontend Engineer with expertise in creating engaging user experiences th
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## Professional Experience
-
-### Senior Frontend Engineer | Tersea | Remote
-*May 2023 – Present*
-
-- Engineered reusable component libraries with React, Styled Components, and Apollo Client
-- Implemented pixel-perfect UI translations from Figma designs using Vue.js ecosystem and Tailwind CSS
-- Developed UI for a Retrieval-Augmented Generation (RAG) chatbot with focus on user experience
-- Architected core modules for CRM systems emphasizing scalable architecture
-- Created feature-rich AI-based Chrome extension using Plasmo framework and TypeScript
-
-### Frontend Engineer | Accelerone | Remote (US-based)
-*March 2022 – May 2023*
-
-- Implemented evidence-based UI enhancements resulting in improved user engagement metrics
-- Executed performance optimization initiatives resulting in 40% improved load times
-- Designed modular component systems reducing feature development time by 35%
-- Led migration from React class components to functional architecture with hooks
-- Worked with diverse tech stack (Vue.js, React.js, Next.js, Redux, Material UI, Tailwind CSS)
-
-## Education
-
-- **Master's Degree**, Full Stack Engineering And Digital Management | ENSAF
-- **Bachelor's Degree**, Software Engineering | FSTE
-
-## Languages
-- English
-- Arabic
-- French
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-fedil/)
