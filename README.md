@@ -4,7 +4,7 @@
 
 Senior Frontend Engineer with expertise in creating engaging user experiences through modern JavaScript frameworks. Demonstrated ability to build performant web applications with maintainable code architecture and a strong commitment to technical excellence.
 
-**Currently:** Senior Frontend Engineer at Tersea (Remote)
+**Currently:** Senior Frontend Engineer at Deskea (Remote)
 
 ## Technologies
 
