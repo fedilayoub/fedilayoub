@@ -53,8 +53,6 @@ Senior Frontend Engineer with expertise in creating engaging user experiences th
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://fedilayoub.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/fedil_ayoub)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fedilayoub2016@gmail.com)
-## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fedilayoub&theme=tokyonight&hide_border=true)
 
 
